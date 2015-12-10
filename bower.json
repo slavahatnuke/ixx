@@ -1,0 +1,14 @@
+{
+  "name": "ixx",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/slavahatnuke/ixx",
+  "authors": [
+    "slava hatnuke <slava.hatnuke@gmail.com>"
+  ],
+  "description": "ixx",
+  "keywords": [
+    "ixx"
+  ],
+  "license": "MIT"
+}

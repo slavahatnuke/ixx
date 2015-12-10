@@ -1,0 +1,22 @@
+{
+  "name": "ixx",
+  "version": "0.0.1",
+  "description": "ixx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavahatnuke/ixx.git"
+  },
+  "keywords": [
+    "ixx"
+  ],
+  "author": "slava hatnuke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavahatnuke/ixx/issues"
+  },
+  "homepage": "https://github.com/slavahatnuke/ixx#readme"
+}
